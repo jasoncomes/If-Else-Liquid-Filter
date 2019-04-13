@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# ifelse / https://www.notion.so/highereducation/ifelse-08945f45f9e943798f3c51486beb0d49
+# ifelse / https://github.com/jasoncomes/If-Else-Liquid-Filter
 # This will check if the string exists. If it does it will print the first output, otherwise it will print the second output.
 # {{ string_to_check | ifelse: if_output, else_output }}
 
